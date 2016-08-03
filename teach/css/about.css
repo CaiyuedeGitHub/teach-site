@@ -1,0 +1,52 @@
+/*who-are-we开始*/
+#who-are-we{
+	height: 450px;
+	background: url(../img/20160414170800.png) no-repeat;
+}
+/*who-are-we结束*/
+/*announcement开始*/
+#announcement{
+	background: url(../img/20160414171342.png) no-repeat;
+	height: 262px;
+}
+/*announcement结束*/
+#intro{
+	height: 453px;
+}
+.product{
+	height: 453px;
+	width: 715px;
+	background: url(../img/20160414194356.png);
+	float: left;
+}
+.zhuce{
+	height: 415px;
+	width: 385px;
+	float: right;
+}
+.zhuce h3{
+	color: #666;
+	margin-top: 30px;
+	text-align: center;
+	margin-bottom: 30px;
+}
+.zhuce-title{
+	color: #666;
+	font-size: 16px;
+	line-height: 30px;
+	margin-left: 150px;
+}
+.zhuce form{
+	border: 2px #F6B26B dotted;
+	width: 360px;
+	margin-left: 30px;
+}
+.zhuce-tip{
+	color: red;
+}
+/*advantage开始*/
+#advantage{
+	background: url(../img/20160414193602.png) no-repeat;
+	height: 591px;
+}
+/*advantage结束*/

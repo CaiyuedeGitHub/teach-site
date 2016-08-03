@@ -1,0 +1,267 @@
+/*information开始*/
+#information{
+	height: 170px;
+}
+
+.information-new{
+	height:170px;
+	width: 640px;
+	float: left;
+}
+.information-title{
+	height: 30px;
+	width: 660px;
+}
+.information-title h3{
+	color: black;
+	margin-top: 15px;
+	margin-left: 0px;
+	width: 80px;
+	height: 25px;
+	float: left;
+}
+.information-title p{
+	margin-right: 40px;
+	margin-top: 10px;
+	float: right;
+	height: 30px;
+	width: 100px;
+	text-indent: 10px;
+	text-align: center;
+}
+.information-title p:hover{
+	border-radius: 25px;
+	background: #EA3939;
+	margin-right: 0px;
+}
+.information-class{
+	height: 80px;
+	width: 660px;
+	margin-top: 20px;
+}
+.new-class{
+	width: 330px;
+	height: 60px;
+	margin-top: 10px;
+}
+.new-class li{
+	background: url(../img/home-bg1.png) no-repeat 5px center;
+	height: 20px;
+	line-height: 20px;
+	text-indent: 15px;
+	padding: 5px 0 3px 5px;
+}
+.new-class a{
+	color: black;
+	font-size: 12px;
+}
+.new-class a:hover{
+	color: blue;
+	font-size: 12px;
+}
+.announcement{
+	height: 170px;
+}
+.announcement-title{
+	height: 30px;
+}
+.announcement-title h3{
+	color: black;
+	margin-top: 15px;
+	margin-left: 0px;
+	width: 80px;
+	height: 25px;
+	float: left;
+}
+.announcement-title p{
+	margin-right: 0px;
+	margin-top: 10px;
+	float: right;
+	height: 30px;
+	width: 100px;
+	text-indent: 10px;
+	text-align: center;
+}
+.announcement-title p:hover{
+	border-radius: 25px;
+	background: #EA3939;
+	margin-right: 0px;
+}
+.announcement-class{
+	height: 90px;
+	width: 400px;
+	margin-top: 20px;
+	margin-left: 20px;
+	border: 1px dotted #999;
+}
+.announcement-class li{
+	background: url(../img/home-bg1.png) no-repeat 5px center;
+	height: 30px;
+	line-height: 30px;
+	text-indent: 160px;
+}
+.announcement-class a{
+	color: black;
+	font-size: 12px;
+}
+.announcement-class a:hover{
+	color: blue;
+	font-size: 12px;
+}
+/*information结束*/
+/*recommend开始*/
+#recommend{
+	background: #F5F5F5;
+	height: 485px;
+}
+#recommend h1{
+	color: #666;
+	letter-spacing: 5px;
+	padding-top: 60px;
+	text-align: center;
+}
+#recommend h3{
+	color: #666;
+	text-align: center;
+}
+.course{
+	height: 255px;
+	margin-left: 100px;
+	margin-top: 30px;
+}
+.course li{
+	display: inline-block;
+	margin-right: 20px;
+}
+.course span{
+	margin-left: 60px;
+	font-weight: bold;
+	font-size: 16px;
+}
+.course a{
+	color: #666;
+}
+.course a:hover{
+	color: blue;
+}
+#recommend p{
+	text-align: center;
+	text-indent: 10px;
+	width: 100px;
+	height: 30px;
+	margin-left: 600px;
+}
+#recommend p:hover{
+	border-radius: 25px;
+	background: #93C47D;
+}
+/*recommend结束*/
+/*intro开始*/
+#intro{
+	background: url(../img/20160413215305.png) no-repeat;
+	height: 340px;
+	border-top: 1px #F5F5F5 solid;
+	border-bottom: 1px #93C47D solid;
+}
+#intro p{
+	text-align: center;
+	text-indent: 10px;
+	width: 110px;
+	height: 30px;
+	margin-top: 290px;
+	margin-left: 620px;
+	background: #93C47D;
+	border-radius: 5px;
+	border: 1px white solid;
+}
+#intro p:hover{
+	border-radius: 5px;
+	background: white;
+	border:1px #FEE157 solid;
+}
+/*intro结束*/
+/*problem开始*/
+#problem{
+	background: #FEE157;
+	height: 415px;
+}
+.problem-text{
+	width: 680px;
+	height: 415px;
+	float: left;
+}
+.problem-title{
+	height: 30px;
+	width: 680px;
+	padding-top: 30px;
+}
+.problem-title h3{
+	color: #666;
+	margin-top: 15px;
+	margin-left: 20px;
+	width: 80px;
+	height: 25px;
+	float: left;
+}
+.problem-title p{
+	margin-right: 0px;
+	margin-top: 10px;
+	float: right;
+	height: 30px;
+	width: 100px;
+	text-indent: 10px;
+	text-align: center;
+}
+.problem-title p:hover{
+	border-radius: 25px;
+	background: white;
+	margin-right: 0px;
+}
+.problem-class{
+	height: 212px;
+	width: 677px;
+	margin-top: 20px;
+	margin-left: 20px;
+	border: 1px dotted #999;
+}
+.problem-class li{
+	background: url(../img/Problem-bg.png) no-repeat 5px center;
+	height: 40px;
+	line-height: 40px;
+	text-indent: 25px;
+	font-size: 15px;
+	border-bottom: 1px dotted #ccc;
+    text-align: left;
+}
+.problem-class a{
+	color: #666;
+}
+.problem-class a:hover{
+	color: blue;
+}
+.zhuce{
+	height: 415px;
+	width: 420px;
+	float: right;
+}
+.zhuce h3{
+	color: #666;
+	margin-top: 30px;
+	text-align: center;
+	margin-bottom: 30px;
+}
+.zhuce-title{
+	color: #666;
+	font-size: 16px;
+	line-height: 30px;
+	margin-left: 150px;
+}
+.zhuce form{
+	border: 1px #999 dotted;
+	width: 360px;
+	margin-left: 60px;
+}
+.zhuce-tip{
+	color: red;
+}
+/*problem结束*/

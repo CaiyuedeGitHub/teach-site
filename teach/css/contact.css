@@ -1,0 +1,56 @@
+/*contact开始*/
+#contact{
+	height: 710px;
+}
+.contact-information{
+	height: 1000px;
+	background: #fafdff;
+}
+.contact-us{
+	height: 60px;
+	background: url(../img/20160415093310.png) no-repeat;
+} 
+.contact-map{
+	background: url(../img/20160415093404.png) no-repeat;
+	float: left;
+	height: 600px;
+	width: 527px;
+	margin-top: 40px;
+}
+.company-information{
+	background: url(../img/20160415093502.png) no-repeat;
+	height: 159px;
+	width: 529px;
+	float: right;
+	margin-top: 40px;
+	margin-right: 10px;
+}
+.zhuce{
+	float: right;
+}
+.zhuce form{
+	border:#666 1px dotted;
+	display:inline-block;
+	width:529px; 
+	height: 245px;
+	padding-top:60px; 
+	padding-bottom:60px;
+	margin-right: 10px;
+	background: url(../img/lianxi_02_1o37.png) no-repeat  #F5F5F5 right;
+}
+.zhuce h3{
+	color: #666;
+	margin-top: 30px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+.zhuce-title{
+	color: #666;
+	font-size: 16px;
+	line-height: 30px;
+	margin-left: 150px;
+}
+.zhuce-tip{
+	color: red;
+}
+/*contact结束

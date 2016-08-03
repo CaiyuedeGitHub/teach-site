@@ -1,0 +1,50 @@
+/*intro开始*/
+#intro{
+	height: 500px;
+}
+.other-information{
+	width: 1100px;
+	height: 80px;
+	background: #fafdff;
+	text-align: center;
+	padding-top: 30px;
+}
+.other-information li{
+	height: 100px;
+	width: 130px;
+	display: inline-block;
+	text-align: center;
+	text-indent: 10px;
+}
+.other-information a{
+	color: black;
+	font-size: 16px;
+}
+.other-information a:hover{
+	border-radius: 5px;
+	background: #93C47D;
+}
+.company-news{
+	height: 400px;
+	background: #fafdff;
+}
+.company-news span{
+	float: right;
+}
+.company-news li{
+	background: url(../img/article_arrow.gif) no-repeat 5px center;
+	height: 40px;
+	line-height: 40px;
+	text-indent: 25px;
+	font-size: 15px;
+	border-bottom: 1px dotted #ccc;
+    text-align: left;
+    font-size: 12px;
+}
+.company-news a{
+	color: #333;
+}
+.company-news a:hover{
+	color: blue;
+}
+/*intro结束*/
